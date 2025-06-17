@@ -8,10 +8,10 @@ How to Run the App:
 	git clone https://github.com/yaswanth0091/Notes-App-Svelte.git                                                                                                                                               
 	cd Notes-App-Svelte
 2. Install dependencies
-	bash
+	bash                                                                                                                                                                                                         
 	npm install
 3. Start the development server
-	bash
+	bash                                                                                                                                                                                                         
 	npm run dev
 ---------------------------------------------------------------------------------------------------------------------------------------
 Features:
@@ -34,8 +34,8 @@ With More Time...
 5. Implement unit and integration tests
 -------------------------------------------------------------------------------------------------------------------------------------
 Screenshots:
-[Light Mode:](https://github.com/yaswanth0091/Notes-App-Svelte/blob/main/screenshots/light-mode.png?raw=true)
-[Dark Mode:](https://github.com/yaswanth0091/Notes-App-Svelte/blob/main/screenshots/dark-mode.png?raw=true)
-[Search-Bar-Functionality](https://github.com/yaswanth0091/Notes-App-Svelte/blob/main/screenshots/search-bar-functionality.png?raw=true)
-[Edit-Functionality](https://github.com/yaswanth0091/Notes-App-Svelte/blob/main/screenshots/edit-functionality.png?raw=true)
-[Delete-Confirmation](https://github.com/yaswanth0091/Notes-App-Svelte/blob/main/screenshots/delete-confirmation.png?raw=true)
+[Light Mode:](https://github.com/yaswanth0091/Notes-App-Svelte/blob/main/screenshots/light-mode.png?raw=true)                                                                                                        
+[Dark Mode:](https://github.com/yaswanth0091/Notes-App-Svelte/blob/main/screenshots/dark-mode.png?raw=true)                                                                                                          
+[Search-Bar-Functionality](https://github.com/yaswanth0091/Notes-App-Svelte/blob/main/screenshots/search-bar-functionality.png?raw=true)                                                                             
+[Edit-Functionality](https://github.com/yaswanth0091/Notes-App-Svelte/blob/main/screenshots/edit-functionality.png?raw=true)                                                                                         
+[Delete-Confirmation](https://github.com/yaswanth0091/Notes-App-Svelte/blob/main/screenshots/delete-confirmation.png?raw=true)                                                                                       
