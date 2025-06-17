@@ -7,10 +7,10 @@ How to Run the App:
  	bash                                                                                                                                                                                                         
 	git clone https://github.com/yaswanth0091/Notes-App-Svelte.git                                                                                                                                               
 	cd Notes-App-Svelte
-2. Install dependencies
+2. Install dependencies                                                                                                                                                                                              
 	bash                                                                                                                                                                                                         
 	npm install
-3. Start the development server
+3. Start the development server                                                                                                                                                                                      
 	bash                                                                                                                                                                                                         
 	npm run dev
 ---------------------------------------------------------------------------------------------------------------------------------------
