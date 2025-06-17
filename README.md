@@ -3,9 +3,9 @@ My Notes App (Svelte)
 A simple notes application built with Svelte that supports adding, editing, deleting, and searching notes. It also supports dark mode.
 
 How to Run the App:
-1. Clone the repository
- 	bash
-	git clone https://github.com/yaswanth0091/Notes-App-Svelte.git
+1. Clone the repository                                                                                                                                                                                              
+ 	bash                                                                                                                                                                                                         
+	git clone https://github.com/yaswanth0091/Notes-App-Svelte.git                                                                                                                                               
 	cd Notes-App-Svelte
 2. Install dependencies
 	bash
