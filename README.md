@@ -23,7 +23,7 @@ Features:
 --------------------------------------------------------------------------------------------------------------------------------------
 Trade-offs & Assumptions
 1. Used MockAPI for simulating a backend. In a real-world app, this would be replaced with an actual database and backend.
-2. Notes are not persisted offline or across browsers (since it's using an online API).
+2. Notes do not persist offline or across browsers (since it uses an online API).
 3. Minimal input validation for simplicity.
 --------------------------------------------------------------------------------------------------------------------------------------
 With More Time...
