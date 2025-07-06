@@ -149,12 +149,4 @@
   </div>
 </main>
 
-<style>
-  html {
-    transition: background-color 0.3s ease;
-  }
 
-  main {
-    font-family: system-ui, sans-serif;
-  }
-</style>
