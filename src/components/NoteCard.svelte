@@ -42,10 +42,10 @@
 
     <div class="absolute top-2 right-2 flex space-x-2 opacity-0 group-hover:opacity-100 transition-opacity duration-200">
   <button on:click={() => (editing = true)} aria-label="Edit">
-    <img src="/icon/edit-icon.png" alt="Edit" title="Edit" class="w-6 h-6 hover:scale-110 transition-transform" />
+    <img src="/icons/edit-icon.png" alt="Edit" title="Edit" class="w-6 h-6 hover:scale-110 transition-transform" />
   </button>
   <button on:click={deleteMe} aria-label="Delete">
-    <img src="/icon/delete-icon.png" alt="Delete" title="Delete" class="w-6 h-6 hover:scale-110 transition-transform" />
+    <img src="/icons/delete-icon.png" alt="Delete" title="Delete" class="w-6 h-6 hover:scale-110 transition-transform" />
 
   </button>
 </div>
